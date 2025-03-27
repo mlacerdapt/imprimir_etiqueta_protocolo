@@ -4,7 +4,7 @@
 
 Bibliotecas instaladas:
 
-pip install openpyxl zebra qrcode pillow
+pip install openpyxl zebra qrcode pillow tkinter
 
 IP Impressoras: 
 
